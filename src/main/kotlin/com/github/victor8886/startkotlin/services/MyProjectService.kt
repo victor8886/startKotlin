@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.victor8886.startkotlin.services
 
+import com.github.victor8886.startkotlin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
